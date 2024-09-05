@@ -1,0 +1,4 @@
+No symbol "my_variable" in current context.
+6		StandardGreeting(&user);
+Continuing.
+[Inferior 1 (process 1108380) exited normally]
