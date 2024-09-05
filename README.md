@@ -1,4 +1,1 @@
-## Course: CS 5008
-## Instructor: Drew Jelani
-## Name: Qiyuan Zhu
-
+# Repo for CS5008: Data Structures, Algorithms, and Their Applications Within Computer Systems
